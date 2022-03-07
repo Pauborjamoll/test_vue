@@ -1,24 +1,16 @@
-# test_vue
+Principis UX
 
-## Project setup
-```
-npm install
-```
+-Paleta de colors i fonts
+-Navegació intuitiva 
+-Empra un llenguatge visual intuitiu (icones, col·locació d’elements) que faciliti la comprensió a l’usuari
+-Estructura els continguts de la pàgina de manera lògica
+-Evita carregar la interfície amb contingut irrellevant o colors estridents
+-Empra descripcions curtes per links, botons, menus i headings.
+-Empra fitxers d’imatge amb la qualitat adequada a cada situació
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Principis de Accessibilitat
 
-### Compiles and minifies for production
-```
-npm run build
-```
+-Els links han de ser distingibles
+-Emplea només un <h1> per pàgina per indicar la idea més important  
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

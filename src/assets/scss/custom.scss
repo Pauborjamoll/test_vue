@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+  .bg-header{
+    background-image:url('@/assets/images/bg-header.jpg');
+  }
+  .bg-cards{
+    background-image: url("@/assets/images/bg-featured.gif")
+  }
+  .bg-principal{
+    background-image: url("@/assets/images/bg-headliner.gif");
+  }
+  .bg-footer{
+    background-image: url("@/assets/images/bg-body.gif");
+  }  
+  *{
+    font-family: 'Arial', Helvetica, sans-serif;
+     
+  }
+
+  p{
+    font-size: 0.9rem;
+  }
+
+
+
+
+
+
+
+@import "../../../node_modules/bootstrap/scss/bootstrap.scss";
