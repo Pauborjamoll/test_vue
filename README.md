@@ -12,5 +12,13 @@ Principis de Accessibilitat
 
 -Els links han de ser distingibles
 -Emplea només un <h1> per pàgina per indicar la idea més important  
+-En passar per sobre, el punter serà un dit en lloc de la típica fletxa
+-Els links reaccionen  quan passam per sobre (hover) amb: Canvi de color, subratllat, efecte visual.  
+-Titula seccions i subseccions per ordre d’importància, amb <h2>, <h3> etc
+
+
+Netlify:
+    
+    stupefied-curran-526a69.netlify.app
 
 
